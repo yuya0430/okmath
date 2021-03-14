@@ -1,6 +1,8 @@
 # okmath
 メディア演習2 という講義で作成した「数学講師のための音声入力式図・グラフ描画アプリ」
+
 動かす場合は，以下の手順で．
+
 - dictationkit-v4.4を入手し，bin, src, doc, modelフォルダをcloneした方のdictationkitに追加 (https://julius.osdn.jp/index.php?q=dictation-kit.html)
 - Test_ver4.batを実行（Windowsで動かす場合）MacやLinuxで動かすように作ってないです．．．
 - OK/OK.pde を実行 (processingが必要）
