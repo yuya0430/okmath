@@ -1,0 +1,1 @@
+.\bin\windows\julius\julius.exe -C main.jconf -C am-dnn-file.jconf -nostrip -n 5 -output 5 -fallback1pass -tailmargin 800 -dnnconf julius.dnnconf

@@ -1,0 +1,268 @@
+% OK
+OK	o:_B k_I e:_E
+OK	o_B u_I k_I e_I i_E
+OK	o_B q_I k_I e:_E
+OK	o_B q_I k_I e_I i_E
+GoodBye	g_B u_I q_I b_I a_I i_E
+リセット r_B i_I s_I e_I q_I t_I o_E
+
+% SUGAKU
+数学	s_B u_I u_I g_I a_I k_I u_E
+数学	s_B u:_I g_I a_I k_I u_E
+
+% DORAEMON
+ドラえもん	d_B o_I r_I a_I e_I m_I o_I N_E
+
+% MENSEKI
+面積	m_B e_I N_I s_I e_I k_I i_E
+
+% TEIGIIKI
+定義域	t_B e_I i_I g_I i_I i_I k_I i_E
+
+% TEN
+点		t_B e_I N_E
+
+% GENTEN
+原点	g_B e_I N_I t_I e_I N_E
+
+% TYUTEN
+中点	ch_B u:_I t_I e_I N_E
+中点	ch_B u_I u_I t_I e_I N_E
+
+% KOUTEN
+交点		k_B o:_I t_I e_I N_E
+交点		k_B o_I u_I t_I e_I N_E
+
+% DOUTEN
+動点		d_B o:_I t_I e_I N_E
+動点		d_B o_I u_I t_I e_I N_E
+
+%KAKU
+∠		k_B a_I k_I u_E
+
+%TAI
+:		t_B a_I i_E
+
+#% HEN
+#辺		h_B e_I N_E
+
+% TAIKAKU
+対角線		t_B a_I i_I k_I a_I k_I u_I s_I e_I N_E
+
+% SENBUN
+線分		s_B e_I N_I b_I u_I N_E
+
+% SANKAKU
+三角形 		s_B a_I N_I k_I a_I q_I k_I e_I i_E
+#三角形		s_B a_I N_I k_I a_I k_I u_I k_I e_I i_E
+
+% NITOUHEN
+二等辺三角形	n_B i_I t_I o:_I h_I e_I N_I s_I a_I N_I k_I a_I q_I k_I e_I i_E
+
+% SHIKAKU
+四角形		sh_B i_I k_I a_I q_I k_I e_I i_E
+#四角形		sh_B i_I k_I a_I k_I u_I k_I e_I i_E
+
+% HEIKOUSHIHENKEI
+#平行四辺形	h_B e_I i_I k_I o:_I sh_I i_I h_I e_I N_I k_I e_I i_E
+#平行四辺形	h_B e_I i_I k_I o_I u_I sh_I i_I h_I e_I N_I k_I e_I i_E
+平行四辺形	h_B e:_I k_I o:_I sh_I i_I h_I e_I N_I k_I e:_E
+平行四辺形	h_B e:_I k_I o_I u_I sh_I i_I h_I e_I N_I k_I e:_E
+#平行四辺形	h_B e:_I k_I o:_I sh_I i_I h_I e_I N_I k_I e_I i_E
+
+% NAIGAI
+内接円	n_B a_I i_I s_I e_I t_I u_I e_I N_E
+外接円	g_B a_I i_I s_I e_I t_I u_I e_I N_E
+
+% ALFA
+A	e:_S
+A	e_B i_E
+B	b_B i:_E
+C	sh_B i:_E
+D	d_B i:_E
+E	i:_S
+F	e_B f_I u_E
+G	j_B i:_E
+H	e_B i_I ch_I i_E
+I	a_B i_E
+M	e_B m_I u_E
+N	e_B n_I u_E
+O	o:_S
+#O	o_B u_E
+P	p_B i:_E
+Q	ky_B u:_E
+R	a:_B r_I u_E
+
+% ITIJI
+一次関数	i_B ch_I i_I j_I i_I k_I a_I N_I s_I u:_E
+
+% NIJI
+二次関数	n_B i_I j_I i_I k_I a_I N_I s_I u:_E
+
+% Y_
+y	w_B a_I i_E
+
+% X_2
+xの二乗	e_B q_I k_I u_I s_I u_I n_I o_I n_I i_I j_I o_I u_E
+
+% X_
+x	e_B q_I k_I u_I s_I u_E
+
+#% X__
+#一xの二乗	e_B q_I k_I u_I s_I u_I n_I o_I n_I i_I j_I o_I u_E
+#一x		e_B q_I k_I u_I s_I u_E
+
+% P_M
++	t_B a_I s_I u_E
++	p_B u_I r_I a_I s_I u_E
+-	h_B i_I k_I u_E
+-	m_B a_I i_I n_I a_I s_I u_E
+
+% EQUAL
+=	i_B k_I o:_I r_I u_E
+=	w_B a_E
+
+%DIGIT	
+1	i_B ch_I i_E
+1	i_B q_E
+2	n_B i_E
+2	n_B i:_E
+3	s_B a_I N_E
+4	sh_B i_E
+4	y_B o_I N_E
+5	g_B o_E
+5	g_B o:_E
+6	r_B o_I k_I u_E
+7	n_B a_I n_I a_E
+7	sh_B i_I ch_I i_E
+7	h_B i_I ch_I i_E
+8	h_B a_I ch_I i_E
+8	h_B a_I q_E
+9	ky_B u:_E
+の	n_B o_E
+	
+%NUM1	
+一	i_B ch_I i_E
+一	i_B q_E
+#一	h_B i_I t_I o_E
+二	n_B i_E
+#二	n_B i:_E
+#二	f_B u_I t_I a_E
+三	s_B a_I N_E
+#三	m_B i_I q_E
+四	sh_B i_E
+四	y_B o_I N_E
+五	g_B o_E
+#五	g_B o:_E
+六	r_B o_I k_I u_E
+六	r_B o_I q_E
+七	n_B a_I n_I a_E
+#七	sh_B i_I ch_I i_E
+#七	h_B i_I ch_I i_E
+八	h_B a_I ch_I i_E
+八	h_B a_I q_E
+九	ky_B u:_E
+九	k_B u_E
+	
+%NUM10	
+十	j_B u:_E
+十	j_B u_I q_E
+二十	n_B i_I j_I u:_E
+二十	n_B i_I j_I u_I q_E
+三十	s_B a_I N_I j_I u:_E
+三十	s_B a_I N_I j_I u_I q_E
+四十	y_B o_I N_I j_I u:_E
+四十	y_B o_I N_I j_I u_I q_E
+五十	g_B o_I j_I u:_E
+五十	g_B o_I j_I u_I q_E
+六十	r_B o_I k_I u_I j_I u:_E
+六十	r_B o_I k_I u_I j_I u_I q_E
+七十	n_B a_I n_I a_I j_I u:_E
+七十	sh_B i_I ch_I i_I j_I u:_E
+七十	h_B i_I ch_I i_I j_I u:_E
+七十	n_B a_I n_I a_I j_I u_I q_E
+八十	h_B a_I ch_I i_I j_I u:_E
+八十	h_B a_I ch_I i_I j_I u_I q_E
+九十	ky_B u:_I j_I u:_E
+九十	ky_B u:_I j_I u_I q_E
+	
+%ZERO	
+零	r_B e:_E
+零	z_B e_I r_I o_E
+
+#% BUN
+#分	b_B u_I n_E
+
+% NO
+の	n_B o_E
+
+% TO
+と	t_B o_E
+
+% TO_K
+)と	t_B o_E
+
+% TONO
+との	t_B o_I n_I o_E
+
+% NI
+に	n_B i_E
+
+% WO
+を	w_B o_E
+を	o_S
+
+% WO_K
+)を	w_B o_E
+)を	o_S
+
+% TORI
+通り	t_B o:_I r_I i_E
+
+
+% TORUTYOKUSEN
+通る直線	t_B o:_I r_I u_I ch_I o_I k_I u_I s_I e_I N_E
+通る一次関数 t_B o:_I r_I u_I i_I ch_I i_I j_I i_I k_I a_I N_I s_I u:_E
+
+% TORUHOBUTU
+通る放物線	t_B o:_I r_I u_I h_I o_I b_I u_I t_I u_I s_I e_I N_E
+通る二次関数 t_B o:_I r_I u_I n_I i_I j_I i_I k_I a_I N_I s_I u:_E
+
+% HEIKO
+平行	h_B e_I i_I k_I o:_E
+平行	h_B e_I i_I k_I o_I u_E
+平行	h_B e:_I k_I o:_E
+平行	h_B e:_I k_I o_I u_E
+
+% SUITYOKU
+垂直	s_B u_I i_I ch_I o_I k_I u_E
+
+% HEIKOU
+平行な直線	h_B e_I i_I k_I o:_I n_I a_I ch_I o_I k_I u_I s_I e_I N_E
+平行な直線	h_B e_I i_I k_I o_I u_I n_I a_I ch_I o_I k_I u_I s_I e_I N_E
+
+% TEN_K
+点(	t_B e_I N_E
+
+% KANMA
+,	k_B a_I N_I m_I a_E
+,	k_B o_I N_I m_I a_E
+
+% JUN
+順に移動する	j_B u_I N_I n_I i_I i_I d_I o_I u_I s_I u_I r_I u_E
+
+% NAIBUN
+に内分する	n_B i_I n_I a_I i_I b_I u_I N_I s_I u_I r_I u_E
+
+% SEQUAL
+≦	sh_B o_I u_I n_I a_I r_I i_I i_I k_I o:_I r_I u_E
+≦	sh_B o:_I n_I a_I r_I i_I i_I k_I o:_I r_I u_E
+
+%NOISE
+＜sp＞	sp_S
+
+%NS_B	
+＜s＞	sp_S
+	
+%NS_E	
+＜/s＞	sp_S
